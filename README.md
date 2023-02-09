@@ -15,4 +15,4 @@
 95% новых работников должны загрузить свои документы без ошибок.
 
 Ссылка на датасет и документы.  https://drive.google.com/drive/folders/1ztW6YaIa7xFybfBvrD2r3kvA9YWuZOBe?usp=sharing
-ссылка на первую часть проектаю  https://github.com/nosovdmitry007/pasport_class/tree/YOLO_5/passport
+Ссылка на первую часть проекта.  https://github.com/nosovdmitry007/pasport_class/tree/YOLO_5/passport
